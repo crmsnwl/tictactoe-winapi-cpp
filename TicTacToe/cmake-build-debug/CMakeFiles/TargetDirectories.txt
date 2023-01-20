@@ -1,0 +1,3 @@
+C:/Users/Aurimas/Desktop/TicTacToe-WinAPI-C++/TTT/cmake-build-debug/CMakeFiles/TTT.dir
+C:/Users/Aurimas/Desktop/TicTacToe-WinAPI-C++/TTT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aurimas/Desktop/TicTacToe-WinAPI-C++/TTT/cmake-build-debug/CMakeFiles/rebuild_cache.dir

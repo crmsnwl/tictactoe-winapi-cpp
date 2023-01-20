@@ -1,0 +1,28 @@
+#include "resource.h"
+#include "windows.h"
+
+
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+// Icon
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_X_ICO         ICON                    "x.ico"
+IDI_O_ICO         ICON                    "circle.ico"
+
+#endif
+////////////////////////////////////////////////////
+//
+// Menu
+//
+IDC_MENU          MENU
+BEGIN
+    POPUP "&File"
+    BEGIN
+        MENUITEM "&New Game",            IDM_NG
+        MENUITEM "&Save Game",           IDM_SG
+        MENUITEM "&Reset Wins",          IDM_RW
+    END
+END
